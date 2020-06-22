@@ -1,0 +1,11 @@
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.deps.json
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.dll
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.dll
+/Users/user/coding dojo/csharpNew/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.pdb
